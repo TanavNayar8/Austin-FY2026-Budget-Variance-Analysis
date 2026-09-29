@@ -18,7 +18,7 @@ Analyzed the City of Austin FY2026 Q3 operating budget to compare budgeted alloc
 * Designed an interactive Excel executive dashboard with KPIs, slicers, and variance analysis.
 
 ## Dashboard
-![Austin Budget Dashboard](Dashboard/Dashboard.png)
+![Austin Budget Dashboard](Dashboard/Dashboard.png?v=1)
 
 ## Statistical Outlier Detection
 To objectively identify which departments required deeper financial investigation, I built a statistical profiling model calculating the IQR, standard deviation, and variance distributions.
